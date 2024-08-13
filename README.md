@@ -1,0 +1,1 @@
+-According to the given questions in Questions.txt file the pizza sales are analyzed. 
