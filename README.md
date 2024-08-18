@@ -1,4 +1,4 @@
--According to the given questions in Questions.txt file the pizza sales are analyzed. 
--For better understanding check the Pizza Sales.pdf file
+SCREENSHOTS 
+![image](https://github.com/user-attachments/assets/a9ebe93f-c635-4920-8307-5d5fde4873ba)
 
-[Pizza Sales.pdf](https://github.com/user-attachments/files/16648226/Pizza.Sales.pdf)
+![image](https://github.com/user-attachments/assets/2b01173f-143b-4718-bf10-53ec5ca938f9)
